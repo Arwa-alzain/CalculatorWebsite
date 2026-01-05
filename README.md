@@ -25,3 +25,7 @@ This project is a simple calculator web application developed as a practice proj
 * Handling user input using GET/POST in PHP.
 * Writing basic conditional logic in PHP.
 * Connecting front-end input with back-end processing.
+
+## 🎥 Project Demo
+Click below to view the demo video:
+[![Video Preview](images/1.png)](https://drive.google.com/file/d/1F1mD4QPXOwqkXpoIhHuUoZcTb1T2yBbR/view?usp=sharing)
