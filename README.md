@@ -29,3 +29,8 @@ This project is a simple calculator web application developed as a practice proj
 ## 🎥 Project Demo
 Click below to view the demo video:
 [![Video Preview](images/1.png)](https://drive.google.com/file/d/1F1mD4QPXOwqkXpoIhHuUoZcTb1T2yBbR/view?usp=sharing)
+
+## 📬 Contact
+If you would like to get in touch, feel free to contact me at:
+
+📧 **Email:** arwaahalzain@email.com
